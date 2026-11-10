@@ -48,6 +48,11 @@ I am a Software Engineering student at **Sudan University of Science and Technol
 | **C++ & Computer Fundamentals** | IT Legend | Completed — Memory Addressing, Pointers, Object-Oriented Programming, and Core Architecture |
 
 ## 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://vercel.app" alt="Huzaifa's GitHub stats" />
+  <br />
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
 
 
 
