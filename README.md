@@ -8,7 +8,7 @@ I am a Software Engineering student at **Sudan University of Science and Technol
 - 🛡️ **Daily Practice:** Solving hands-on labs and CTF challenges on [TryHackMe](https://tryhackme.com/), [PortSwigger Web Security Academy](https://portswigger.net/web-security), and `picoCTF`.
 - 🤝 **Community:** Active contributor to a 100+ member cybersecurity peer-learning community helping peers master Linux, SQL, and network defense.
 - 🎯 **Mission:** Protecting people through technology and contributing to building stronger cybersecurity capabilities in Sudan.
-- 📫 **Reach Me:** [GitHub Profile](https://github.com/HuzaifaMohammed00) | [LinkedIn Profile](https://www.linkedin.com/in/huzaifa-mohammed-sec/)
+- 📫 **Reach Me:** [GitHub Profile](https://github.com/HuzaifaMohammed00) | [LinkedIn Profile](https://www.linkedin.com/in/huzaifa-mohammed-sec/) | [my-website] (https://huzaifamohammed00.github.io/)
 
 ## 🛠️ Technical Arsenal & Lab Environment
 
