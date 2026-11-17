@@ -1,9 +1,8 @@
 # Hi there, I'm Huzaifa Mohammed 👋
 
-<img src="https://komarev.com/ghpvc/?username=HuzaifaMohammed00&color=blue&style=flat-square" alt="Profile Views" target ="_blank"/>
-<a href="https://huzaifamohammed.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white" target ="_blank" alt="Personal Website" /></a>
-<a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" target ="_blank"/></a>
-<a href="https://tryhackme.com/p/your-username"><img src="https://img.shields.io/badge/TryHackMe-1a2238?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe" target ="_blank" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=About.me&logoColor=white)](https://your-website-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-1a2238?style=flat-square&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/your-username)
 
 **Cybersecurity Analyst** | **Software Engineering Student @ SUST** | **Google Cybersecurity Certified** | **Python, SQL & Linux**
 
